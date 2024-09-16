@@ -12,6 +12,7 @@ public class Main {
             System.out.println("6-visualizza le auto in ordine crescente");
             System.out.println("7-visualizza tutti i modelli diesel");
             System.out.println("8-esci");
+            System.out.println("commit 2");
             scelta=in.nextInt();
             switch (scelta) {
                 case 1:
